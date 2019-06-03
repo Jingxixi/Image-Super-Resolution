@@ -20,7 +20,7 @@ A list of resourses for this survey.
 
 #### Image Super-Resolution Using Dense Skip Connections (SR-Densenet)
 * [Paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)
-* [Code] (https://github.com/kweisamx/TensorFlow-SR-DenseNet)
+* [Code](https://github.com/kweisamx/TensorFlow-SR-DenseNet)
 
 #### Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network (SRGAN)
 * [Paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ledig_Photo-Realistic_Single_Image_CVPR_2017_paper.pdf)
